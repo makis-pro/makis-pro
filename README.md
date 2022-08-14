@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web design and development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects and websites
-- 📫 How to reach me...sandramakis.dev@gmail.com
+- 📫 How to reach me. sandramakis.dev@gmail.com
 
 <!---
 makis-pro/makis-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
